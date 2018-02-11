@@ -10,4 +10,7 @@
 	`coef ~ N(-1.5, 0.4^2)`
 	`M = 10`
 
- 2. Once data (i.e., "Data_m.csv") were generated, click MaximumLikelihood.py to get the estimation results.
+ 2. Once data (i.e., "Data_m.csv") were generated, click HierarchicalBayes.py to get the estimation results.
+	
+ 3. The final results are displayed in the Results.pdf
+
